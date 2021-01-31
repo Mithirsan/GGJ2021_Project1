@@ -7,7 +7,7 @@
 
 You and your friend have been kidnapped and tortured by a mad scientist. You wake up in a dark room without knowing where you are and where your friend is. Your blood is strangely luminescent. In order to find yourself in the room, throw it mindfully around you. You have a limited amount of blood. Find the objects to heal yourself, avoid the traps, find your friend and escape together before you run out of blood.
 
-#info
+## info
 
 Jam Site: 
 GameDevAcademy
