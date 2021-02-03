@@ -8,3 +8,4 @@ Build_Windows/
 Build/
 
 Binaries/
+*.zip
